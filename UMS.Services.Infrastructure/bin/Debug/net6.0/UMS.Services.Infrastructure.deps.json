@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UMS.Services.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UMS.Dto": "1.0.0"
+        },
+        "runtime": {
+          "UMS.Services.Infrastructure.dll": {}
+        }
+      },
+      "UMS.Dto/1.0.0": {
+        "runtime": {
+          "UMS.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMS.Services.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMS.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UMS.Core\UMS.Core.csproj" />
+    <ProjectReference Include="..\UMS.Dto\UMS.Dto.csproj" />
+    <ProjectReference Include="..\UMS.Helper\UMS.Helper.csproj" />
+    <ProjectReference Include="..\UMS.Services.Infrastructure\UMS.Services.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

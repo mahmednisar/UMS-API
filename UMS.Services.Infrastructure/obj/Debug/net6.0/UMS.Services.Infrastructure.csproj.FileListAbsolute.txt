@@ -1,0 +1,15 @@
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\UMS.Services.Infrastructure.deps.json
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\UMS.Services.Infrastructure.dll
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\ref\UMS.Services.Infrastructure.dll
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\UMS.Services.Infrastructure.pdb
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\bin\Debug\net6.0\UMS.Dto.pdb
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.AssemblyInfo.cs
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.csproj.CopyComplete
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.dll
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\ref\UMS.Services.Infrastructure.dll
+D:\Projects\CONF\UMS\UMS.Services.Infrastructure\obj\Debug\net6.0\UMS.Services.Infrastructure.pdb

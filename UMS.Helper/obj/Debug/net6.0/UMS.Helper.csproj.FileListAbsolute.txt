@@ -1,0 +1,17 @@
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.csproj.AssemblyReference.cache
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.AssemblyInfoInputs.cache
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.AssemblyInfo.cs
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Helper.deps.json
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Helper.dll
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\ref\UMS.Helper.dll
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Helper.pdb
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Services.Infrastructure.dll
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Dto.pdb
+D:\Projects\CONF\UMS\UMS.Helper\bin\Debug\net6.0\UMS.Services.Infrastructure.pdb
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.csproj.CopyComplete
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.dll
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\ref\UMS.Helper.dll
+D:\Projects\CONF\UMS\UMS.Helper\obj\Debug\net6.0\UMS.Helper.pdb

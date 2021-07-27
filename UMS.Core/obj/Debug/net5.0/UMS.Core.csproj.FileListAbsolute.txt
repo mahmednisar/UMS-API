@@ -1,0 +1,15 @@
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\UMS.Core.deps.json
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\UMS.Core.dll
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\ref\UMS.Core.dll
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\UMS.Core.pdb
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Core\bin\Debug\net5.0\UMS.Dto.pdb
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.csproj.AssemblyReference.cache
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.AssemblyInfoInputs.cache
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.AssemblyInfo.cs
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.csproj.CopyComplete
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.dll
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\ref\UMS.Core.dll
+D:\Projects\CONF\UMS\UMS.Core\obj\Debug\net5.0\UMS.Core.pdb

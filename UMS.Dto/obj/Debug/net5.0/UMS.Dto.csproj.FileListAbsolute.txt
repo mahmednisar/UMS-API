@@ -1,0 +1,12 @@
+D:\Projects\CONF\UMS\UMS.Dto\bin\Debug\net5.0\UMS.Dto.deps.json
+D:\Projects\CONF\UMS\UMS.Dto\bin\Debug\net5.0\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Dto\bin\Debug\net5.0\ref\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Dto\bin\Debug\net5.0\UMS.Dto.pdb
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.csproj.AssemblyReference.cache
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.AssemblyInfoInputs.cache
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.AssemblyInfo.cs
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\ref\UMS.Dto.dll
+D:\Projects\CONF\UMS\UMS.Dto\obj\Debug\net5.0\UMS.Dto.pdb

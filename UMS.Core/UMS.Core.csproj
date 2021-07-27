@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity" Version="1.1.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+	  <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UMS.Dto\UMS.Dto.csproj" />
+  </ItemGroup>
+
+</Project>
